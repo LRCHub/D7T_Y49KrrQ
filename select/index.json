@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Journey through the Decade",
+  "base_artist": "Gackt",
+  "createdAt": "2026-01-09T06:50:01.540769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/01_Journey_through_the_Decade_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/02_Journey_through_the_Decade_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/03_Journey_through_the_Decade_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/04_Journey_through_the_Decade_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Journey through the Decade - TV size",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/05_Journey_through_the_Decade_-_TV_size_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/06_Journey_through_the_Decade_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_Journey_through_the_Decade_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Journey through the Decade (仮面ライダーディケイド)",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/08_Journey_through_the_Decade_(仮面ライダーディケイド)_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/09_Journey_through_the_Decade_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/10_Journey_through_the_Decade_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Journey through the Decade（『仮面ライダーディケイド』主題歌 TV size）",
+      "artist": "GACKT",
+      "has_synced": false,
+      "path": "select/11_Journey_through_the_Decade(『仮面ライダーディケイド』主題歌_TV_size)_GACKT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Journey through the Decade",
+      "artist": "D4DJ",
+      "has_synced": true,
+      "path": "select/12_Journey_through_the_Decade_D4DJ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Journey through the Decade (Kamen Rider Decade)",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/13_Journey_through_the_Decade_(Kamen_Rider_Decade)_GACKT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Journey through the Decade",
+      "artist": "GACKT",
+      "has_synced": false,
+      "path": "select/pl_01_Journey_through_the_Decade_GACKT.txt"
+    }
+  ]
+}
